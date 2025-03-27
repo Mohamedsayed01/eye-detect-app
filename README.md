@@ -24,3 +24,8 @@ This project aims to develop an AI-based solution for classifying eye diseases f
 
 You can try the model here:-
 https://huggingface.co/spaces/Mez01/mezo
+
+## 📌To get data, contact me :-
+mosayedms123@gmail.com
+
+
